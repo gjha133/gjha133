@@ -1,9 +1,9 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gautam</h1>
 
-- 🔭 I’m currently working on a **Clothing Website**
-- 🌱 I’m currently learning **React.js, Node.js and Express.js**
+- 🔭 I’m currently working on a **React.js**
+- 🌱 I’m currently learning **Redux, Node.js and Express.js**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 🤔 I’m looking for help with a good portfolio design
+- 🤔 I’m looking for help with portfolio design
 - 💬 Ask me about **Data Structures and Algorithms, React.js**
 - 📫 How to reach me: **gjha133@gmail.com**
 - 😄 Pronouns: He/Him
