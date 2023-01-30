@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align="center">
+  <!--
   <a href="https://www.linkedin.com/in/gautam-jha-6545ab240/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100" alt="LinkedIn Badge"/>
   </a>
+-->
   <a href="https://leetcode.com/gjha133/" target="_blank">
     <img src="https://img.shields.io/badge/Leetcode-yellow?logo=leetCode&logoColor=black&style=for-the-badge" width="100" alt="LeetCode Badge"/>
   </a>
