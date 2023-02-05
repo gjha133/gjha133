@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on **React.js**
 - 🌱 I’m currently learning **Redux, Node.js and Express.js**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about **Data Structures and Algorithms, React.js**
 - 📫 How to reach me: **gjha133@gmail.com**
-- 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I love playing games
+<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
+<!-- - 😄 Pronouns: He/him/his -->
+<!-- - ⚡ Fun fact: I love playing games -->
 
 <!--
 **gjha133/gjha133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
