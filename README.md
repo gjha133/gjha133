@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gautam</h1>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **React.js Projects**
 - 🌱 I’m currently learning **Redux, Node.js and Express.js**
 - 💬 Ask me about **Data Structures and Algorithms, React.js**
 - 📫 How to reach me: **gjha133@gmail.com**
