@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on **React.js Projects**
 - 🌱 I’m currently learning **Redux, Node.js and Express.js**
 - 💬 Ask me about **Data Structures and Algorithms, React.js**
-- 🤔 I’m looking for 1-3 months Internship
 - 📫 How to reach me: **gjha133@gmail.com**
 <!-- - 😄 Pronouns: He/him/his -->
 <!-- - ⚡ Fun fact: I love playing games -->
