@@ -41,9 +41,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blue" alt="profile-views"/>
-</div>
+</div> -->
 
  
 
