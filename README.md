@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gautam</h1>
 
 - 🔭 I’m currently working on **MERN projects**
-- 🌱 I’m currently learning **React Native, Next.js**
+- 🌱 I’m currently learning **Typescript, Next.js**
 - 💬 Ask me about **Data Structures and Algorithms, React.js**
 - 📫 How to reach me: **gjha133@gmail.com**
 <!-- - 😄 Pronouns: He/him/his -->
